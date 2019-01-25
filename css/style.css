@@ -2,6 +2,10 @@ header {
     background-color: green;
 }
 
+.navbar
+{
+    z-index: 1000;
+}
 h1 {
     font-family: Niramit;
     font-weight: bold;
@@ -15,6 +19,7 @@ h1 {
 
 body {
     font-family: Montserrat;
+    color: black;
 }
 
 footer {
